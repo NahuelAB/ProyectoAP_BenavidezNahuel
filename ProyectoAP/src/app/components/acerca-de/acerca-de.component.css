@@ -1,0 +1,20 @@
+.row{
+    padding: 20px;
+}
+div{
+    background-color: grey;
+    text-align: center;
+}
+#name{
+    font-weight: bold;
+    margin-top: 25%;
+}
+/*foto de perfil*/
+#pfp{
+    position: absolute;
+    width: 15%;
+    border-radius: 100%;
+    box-shadow: 3px 3px 3px black;
+    left: 3%;
+    top: 650px;
+}
