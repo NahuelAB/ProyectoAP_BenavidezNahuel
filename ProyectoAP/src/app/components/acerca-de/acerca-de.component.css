@@ -2,7 +2,6 @@
     padding: 20px;
 }
 div{
-    background-color: grey;
     text-align: center;
 }
 #name{
@@ -10,11 +9,12 @@ div{
     margin-top: 25%;
 }
 /*foto de perfil*/
-#pfp{
+    #pfp{
     position: absolute;
     width: 15%;
     border-radius: 100%;
     box-shadow: 3px 3px 3px black;
     left: 3%;
     top: 650px;
-}
+    }
+

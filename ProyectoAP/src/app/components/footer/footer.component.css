@@ -1,0 +1,6 @@
+footer {
+    font-size: 15px;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
